@@ -13,7 +13,7 @@
 ## Getting started
 
 * Clone the repo by > git clone https://github.com/mungaiDaniel/flask_authentication.git
-* Navigate into projects directory by > cd flask_restful_no_sqlalchemy
+* Navigate into projects directory by > cd flask_authentication
 * create a virtual environment by > virtualenv virtual
 * Activate the virtual environment by > souce virtual/bin/activate
 * Install the dependencies by > pip install -r requirements.txt
